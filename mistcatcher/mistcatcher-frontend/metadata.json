@@ -1,0 +1,6 @@
+{
+  "name": "MistCatcher Dashboard",
+  "description": "A web application to monitor and analyze data from the MistCatcher system, including real-time metrics, historical trends, savings, and system status.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
